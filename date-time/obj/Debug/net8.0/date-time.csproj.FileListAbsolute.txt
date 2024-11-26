@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\date-time\date-time\bin\Debug\net8.0\date-time.exe
+C:\Users\aleks\source\repos\date-time\date-time\bin\Debug\net8.0\date-time.deps.json
+C:\Users\aleks\source\repos\date-time\date-time\bin\Debug\net8.0\date-time.runtimeconfig.json
+C:\Users\aleks\source\repos\date-time\date-time\bin\Debug\net8.0\date-time.dll
+C:\Users\aleks\source\repos\date-time\date-time\bin\Debug\net8.0\date-time.pdb
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.AssemblyInfo.cs
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.dll
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\refint\date-time.dll
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.pdb
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\date-time.genruntimeconfig.cache
+C:\Users\aleks\source\repos\date-time\date-time\obj\Debug\net8.0\ref\date-time.dll
